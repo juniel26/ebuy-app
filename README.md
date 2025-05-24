@@ -54,7 +54,7 @@ Scan the QR code using Expo Go or open the link from your Android device browser
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/e-buy.git
+git clone https://github.com/juniel26/ebuy-app.git
 cd e-buy
 
 2. Install Dependencies
