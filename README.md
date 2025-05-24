@@ -6,7 +6,7 @@ Welcome to **E-BUY**, a role-based e-commerce mobile app built with **React Nati
 
 ## 📱 Try the App on Your Phone
 
-➡️ [Open in Expo Go](https://expo.dev)  
+➡️ [Open in Expo Go](https://expo.dev/accounts/juniel26/projects/ebuy-app/builds/d5abe5a8-6a0b-46b3-8281-6847a0d494a0)  
 Scan the QR code using Expo Go or open the link from your Android device browser to preview the app.
 
 
